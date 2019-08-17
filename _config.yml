@@ -57,11 +57,11 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
- disqus_username: chain723
+# disqus_username: chain723
 
 # Gitalk
 gitalk:
-  enable: true #是否开启Gitalk评论
+  enable: false  #是否开启Gitalk评论
   clientID: acfab3caba138ac4db5a #生成的clientID
   clientSecret: 5299ff3a4b953057bc5706f76a1079dad56b86d4 #生成的clientSecret
   repo: chain723.github.io    #仓库名称
